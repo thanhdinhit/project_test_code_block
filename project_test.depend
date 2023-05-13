@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1683988689 source:h:\c_c++\software\code_block\work\project\project_test\main.cpp
+	<iostream>
+	<cstdint>
+	"lib.h"
+
+1683987190 source:h:\c_c++\software\code_block\work\project\project_test\main1.cpp
+	<iostream>
+
+1683988585 source:h:\c_c++\software\code_block\work\project\project_test\test.cpp
+	<iostream>
+
+1683988406 h:\c_c++\software\code_block\work\project\project_test\lib.h
+
+1683988350 source:h:\c_c++\software\code_block\work\project\project_test\flipping_a_bit.cpp
+	<iostream>
+	<cstdint>
+
+1683988277 source:h:\c_c++\software\code_block\work\project\project_test\resetting_a_bit.cpp
+	<iostream>
+	<cstdint>
+
+1683988218 source:h:\c_c++\software\code_block\work\project\project_test\setting_a_bit.cpp
+	<iostream>
+	<cstdint>
+
+1683988205 source:h:\c_c++\software\code_block\work\project\project_test\toggle_bitmask.cpp
+	<iostream>
+	<cstdint>
+
