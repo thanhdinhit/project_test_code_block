@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1683988689 source:h:\c_c++\software\code_block\work\project\project_test\main.cpp
+1684027128 source:h:\c_c++\software\code_block\work\project\project_test\main.cpp
 	<iostream>
 	<cstdint>
 	"lib.h"
@@ -10,7 +10,7 @@
 1683988585 source:h:\c_c++\software\code_block\work\project\project_test\test.cpp
 	<iostream>
 
-1683988406 h:\c_c++\software\code_block\work\project\project_test\lib.h
+1684027187 h:\c_c++\software\code_block\work\project\project_test\lib.h
 
 1683988350 source:h:\c_c++\software\code_block\work\project\project_test\flipping_a_bit.cpp
 	<iostream>

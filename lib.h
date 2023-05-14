@@ -1,5 +1,5 @@
-#ifndef _MYHEAD_H
-#define _MYHEAD_H
+#ifndef _LIB_H
+#define _LIB_H
 
 void funSay();
 void Flipping_a_bit();
